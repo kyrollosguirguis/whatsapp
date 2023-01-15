@@ -1,0 +1,15 @@
+Date: 15/1/2023
+Time: 14:22
+Phone Number: +201145070573
+Message: Test message from a python script
+--------------------
+Date: 15/1/2023
+Time: 14:24
+Phone Number: +201145070573
+Message: Test message from a python script
+--------------------
+Date: 15/1/2023
+Time: 14:42
+Phone Number: +201287891548
+Message: Test message from a python script
+--------------------
